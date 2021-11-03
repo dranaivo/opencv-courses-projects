@@ -6,7 +6,7 @@ This is a collection of projects I have done in the context of [OpenCV.org cours
 
 * [**Blemish Removal**](BlemishRemoval/README.md) : Removing blemishes from a face.
 
-* [**Sunglasses Filter**](SunglassesFilter/README.md) : ...
+* [**Sunglasses Filter**](SunglassesFilter/README.md) : Putting sunglasses on someone.
 
 * [**Virtual Makeup**](VirtualMakeup/README.md) : ...
 
