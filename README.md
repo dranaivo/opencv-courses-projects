@@ -4,7 +4,7 @@ This is a collection of projects I have done in the context of [OpenCV.org cours
 
 * [**Background Matting**](BackgroundMatting/README.md) : (one-liner descr)
 
-* [**Blemish Removal**](BlemishRemoval/README.md) : ...
+* [**Blemish Removal**](BlemishRemoval/README.md) : Removing blemishes from a face.
 
 * [**Sunglasses Filter**](SunglassesFilter/README.md) : ...
 
